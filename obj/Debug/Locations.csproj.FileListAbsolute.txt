@@ -1,0 +1,46 @@
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\obj\Debug\Locations.csproj.ResolveComReference.cache
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\obj\Debug\Locations.Form1.resources
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\obj\Debug\Locations.frmShowDialog.resources
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\obj\Debug\Locations.frmAddress.resources
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\obj\Debug\Locations.frmDonus.resources
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\obj\Debug\Locations.Properties.Resources.resources
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\obj\Debug\Locations.csproj.GenerateResource.Cache
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\bin\Debug\Locations.exe.config
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\bin\Debug\Locations.exe
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\bin\Debug\Locations.pdb
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\bin\Debug\Directions.Core.dll
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\bin\Debug\EntityFramework.dll
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\bin\Debug\EntityFramework.SqlServer.dll
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\bin\Debug\GMap.NET.Core.dll
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\bin\Debug\Ionic.Utils.Zip.dll
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\bin\Debug\itextsharp.dll
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\bin\Debug\Net.SourceForge.Koogra.dll
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\bin\Debug\Newtonsoft.Json.dll
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\bin\Debug\System.Data.SQLite.dll
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\bin\Debug\EntityFramework.xml
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\bin\Debug\EntityFramework.SqlServer.xml
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\bin\Debug\itextsharp.xml
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\bin\Debug\Net.SourceForge.Koogra.xml
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\bin\Debug\Newtonsoft.Json.xml
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\bin\Debug\System.Data.SQLite.xml
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\obj\Debug\Locations.exe
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\obj\Debug\Locations.pdb
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\obj\Debug\Locations.csprojResolveAssemblyReference.cache
+C:\Visual Studio Çalışmalarım\Freelance\Locations\Locations\obj\Debug\Locations.exe.manifest
+D:\Locations\Locations\bin\Debug\Locations.exe.config
+D:\Locations\Locations\obj\Debug\Locations.csproj.ResolveComReference.cache
+D:\Locations\Locations\obj\Debug\Locations.exe
+D:\Locations\Locations\obj\Debug\Locations.pdb
+D:\Locations\Locations\obj\Debug\Locations.csprojResolveAssemblyReference.cache
+D:\Locations\Locations\obj\Debug\Locations.Form1.resources
+D:\Locations\Locations\obj\Debug\Locations.frmShowDialog.resources
+D:\Locations\Locations\obj\Debug\Locations.frmAddress.resources
+D:\Locations\Locations\obj\Debug\Locations.frmDonus.resources
+D:\Locations\Locations\obj\Debug\Locations.Properties.Resources.resources
+D:\Locations\Locations\obj\Debug\Locations.csproj.GenerateResource.Cache
+D:\Locations\Locations\obj\Debug\Locations.exe.manifest
